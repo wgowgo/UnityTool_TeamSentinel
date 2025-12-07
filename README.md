@@ -226,5 +226,6 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 - Current version is **localhost only** (security hardening recommended for production)  
 
 ---
-<img width="651" height="152" alt="image" src="https://github.com/user-attachments/assets/4c8201a9-c5a9-4071-aa6d-cbc230c47e9e" />
-<img width="1194" height="335" alt="image" src="https://github.com/user-attachments/assets/7c1b311e-027d-4bdf-8639-b79f1df49864" />
+<img width="1213" height="239" alt="image" src="https://github.com/user-attachments/assets/aed25eb6-9917-41e5-af00-14e6c269d3c1" />
+<img width="975" height="160" alt="image" src="https://github.com/user-attachments/assets/04780e9f-16a7-4276-8d59-045585a1403d" />
+

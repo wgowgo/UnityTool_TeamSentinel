@@ -1,0 +1,2 @@
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\publish\GUI\MonitoringGUI.pdb
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\publish\GUI\MonitoringGUI.exe

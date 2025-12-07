@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Unity Monitoring Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Unity Monitoring Dashboard</h1>
+    <div id="stats-container">
+        <div class="stat-card">
+            <h3>총 클라이언트</h3>
+            <div id="total-clients">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>Unity 실행 중</h3>
+            <div id="unity-running">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>평균 CPU</h3>
+            <div id="avg-cpu">0%</div>
+        </div>
+        <div class="stat-card">
+            <h3>평균 메모리</h3>
+            <div id="avg-memory">0%</div>
+        </div>
+    </div>
+    <div id="charts-container">
+        <div class="chart-box">
+            <canvas id="cpu-chart"></canvas>
+        </div>
+        <div class="chart-box">
+            <canvas id="memory-chart"></canvas>
+        </div>
+    </div>
+    <div id="clients"></div>
+    <script src="ws-client.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,2 @@
+C:\publish\Server\MonitoringServer.pdb
+C:\publish\Server\MonitoringServer.exe

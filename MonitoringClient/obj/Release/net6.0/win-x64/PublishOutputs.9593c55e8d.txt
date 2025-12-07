@@ -1,0 +1,2 @@
+C:\publish\Client\MonitoringClient.pdb
+C:\publish\Client\MonitoringClient.exe

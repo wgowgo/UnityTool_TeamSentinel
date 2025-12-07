@@ -1,0 +1,2 @@
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\publish\Server\MonitoringClient.pdb
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\publish\Server\MonitoringClient.exe

@@ -1,0 +1,480 @@
+C:\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.exe
+C:\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.deps.json
+C:\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.runtimeconfig.json
+C:\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.pdb
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Fleck.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.AppContext.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Buffers.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Configuration.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Console.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Core.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.Common.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Drawing.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Memory.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Http.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Security.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Numerics.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Transactions.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Web.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Windows.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\WindowsBase.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\mscorlib.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\netstandard.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\clretwrc.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\clrjit.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\coreclr.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\createdump.exe
+C:\MonitoringServer\bin\Release\net6.0\win-x64\dbgshim.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\hostfxr.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\hostpolicy.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.3624.51421.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\mscordbi.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\mscorrc.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\msquic.dll
+C:\MonitoringServer\bin\Release\net6.0\win-x64\ucrtbase.dll
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.csproj.AssemblyReference.cache
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.AssemblyInfoInputs.cache
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.AssemblyInfo.cs
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.csproj.CoreCompileInputs.cache
+C:\MonitoringServer\obj\Release\net6.0\win-x64\Monitori.C684FB41.Up2Date
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.dll
+C:\MonitoringServer\obj\Release\net6.0\win-x64\refint\MonitoringServer.dll
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.pdb
+C:\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.genruntimeconfig.cache
+C:\MonitoringServer\obj\Release\net6.0\win-x64\ref\MonitoringServer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.exe
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.deps.json
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.runtimeconfig.json
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\MonitoringServer.pdb
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Fleck.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.AppContext.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Buffers.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Collections.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Configuration.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Console.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Core.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.Common.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Data.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Drawing.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Globalization.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Linq.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Memory.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Http.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Security.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Net.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Numerics.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Reflection.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Runtime.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Security.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Threading.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Transactions.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Web.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Windows.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.Xml.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\WindowsBase.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\mscorlib.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\netstandard.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\clretwrc.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\clrjit.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\coreclr.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\createdump.exe
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\dbgshim.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\hostfxr.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\hostpolicy.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.3624.51421.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\mscordbi.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\mscorrc.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\msquic.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\bin\Release\net6.0\win-x64\ucrtbase.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.csproj.AssemblyReference.cache
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.AssemblyInfoInputs.cache
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.AssemblyInfo.cs
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.csproj.CoreCompileInputs.cache
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\Monitori.C684FB41.Up2Date
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\refint\MonitoringServer.dll
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.pdb
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\MonitoringServer.genruntimeconfig.cache
+C:\Users\seong\OneDrive\바탕 화면\UNITY_TEAM_SENTINEL\MonitoringServer\obj\Release\net6.0\win-x64\ref\MonitoringServer.dll

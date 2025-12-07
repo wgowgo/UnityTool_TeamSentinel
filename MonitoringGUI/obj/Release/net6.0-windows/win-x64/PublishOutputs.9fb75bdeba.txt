@@ -1,0 +1,2 @@
+C:\publish\GUI\MonitoringGUI.pdb
+C:\publish\GUI\MonitoringGUI.exe

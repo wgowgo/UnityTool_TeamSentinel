@@ -1,5 +1,5 @@
-# 📘 Unity Team Sentinel
-## 🇰🇷 팀 모니터링 시스템 · 🇺🇸 Team Monitoring System
+# Unity Team Sentinel
+## 🇰🇷 팀 모니터링 시스템 🇺🇸 Team Monitoring System
 
 ### Unity 개발 팀의 작업 상태를 실시간으로 모니터링하여 **서버 / 클라이언트 / GUI / 웹 대시보드**에서 <br/> 확인할 수 있게 해주는 통합 모니터링 도구입니다.  
 ### This integrated monitoring tool allows real-time tracking of Unity development team activity, visible in **Server / Client / GUI / Web Dashboard**.
@@ -7,7 +7,7 @@
 
 ---
 
-# ✨ 주요 기능 · Features
+# 주요 기능 Features
 
 ## 🇰🇷 한국어
 - Unity 프로세스 실행 상태 실시간 감지  
@@ -31,7 +31,7 @@
 
 ---
 
-# 📂 폴더 구조 · Folder Structure
+# 폴더 구조 Folder Structure
 
 UNITY_TEAM_SENTINEL/<br/>
 ├── MonitoringClient/                    ← 클라이언트 애플리케이션/<br/>
@@ -69,7 +69,7 @@ UNITY_TEAM_SENTINEL/<br/>
 
 ---
 
-# 🚀 사용 방법 · How to Use
+# 사용 방법 How to Use
 
 ## 🇰🇷 한국어
 
@@ -131,7 +131,7 @@ UNITY_TEAM_SENTINEL/<br/>
 
 ---
 
-# ⚙️ 설정 · Configuration
+# 설정 Configuration
 
 ## 🇰🇷 한국어
 
@@ -205,7 +205,7 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 
 ---
 
-# ⚠ 주의 사항 · Notes
+# 주의 사항 Notes
 
 ## 🇰🇷 한국어
 - 서버는 **TCP 5000**, **WebSocket 6000** 포트 사용  
